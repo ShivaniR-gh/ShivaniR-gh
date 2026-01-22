@@ -3,10 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Spring+Boot+%7C+Hibernate;REST+APIs+%7C+Microservices;Clean+Code+%7C+Best+Practices&center=true&width=600&height=50">
-</p>
-
 ---
 
 ##  About Me
@@ -63,7 +59,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniR-gh&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniR-gh&show_icons=true&theme=tokyonight&hide=cpp,c" />
 </p>
 
 ---
