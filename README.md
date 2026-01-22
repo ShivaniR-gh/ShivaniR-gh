@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivani R</h1>
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<br>
+<br>
 ---
 
 ### 👩‍💻 About Me
