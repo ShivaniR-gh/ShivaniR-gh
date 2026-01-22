@@ -2,21 +2,15 @@
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Always+Learning+New+Things&center=true&width=500&height=50">
-
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 </p>
-<br>
-<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Spring+Boot+%7C+Hibernate;REST+APIs+%7C+Microservices;Clean+Code+%7C+Best+Practices&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 MCA Student | Career-oriented Software Engineer
+##  About Me
+- 👩‍💻 Career-oriented Software Engineer
 - ☕ Strong foundation in **Core Java & OOPs**
 - 🌱 Currently mastering **Spring Boot & Microservices**
 - 🔧 Passionate about **backend development**
