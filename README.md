@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivani R</h1>
-<h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
+<h3 align="center">Java Full Stack Developer 🚀</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
----
-
-##  About Me
+About Me
 - 👩‍💻 Career-oriented Software Engineer
 - ☕ Strong foundation in **Core Java & OOPs**
 - 🌱 Currently mastering **Spring Boot & Microservices**
@@ -54,13 +52,6 @@
 🔹 **CRUD Applications**
 - Clean layered architecture
 - DTO, Entity, Repository, Service
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniR-gh&show_icons=true&theme=tokyonight&hide=cpp,c" />
-</p>
 
 ---
 
