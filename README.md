@@ -6,13 +6,11 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 MCA Student | Career-oriented Software Engineer
+- 🎓 Career-oriented Software Engineer
 - ☕ Strong foundation in **Core Java & OOPs**
 - 🌱 Currently mastering **Spring Boot & Microservices**
 - 🔧 Passionate about **backend development**
 - 🎯 Goal: Crack a **high-package Java role (10–12 LPA)**
-
----
 
 ---
 
