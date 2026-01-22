@@ -42,7 +42,7 @@
 
 ## 📌 Projects
 🔹 **Employee Management System**
-- Java + Spring Boot + Angular
+- Java + Spring Boot 
 - REST APIs, Validation, Role-based Access
 - PostgreSQL integration
 
