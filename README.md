@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
-About Me
-- 👩‍💻 Career-oriented Software Engineer
+👩‍💻 About Me
+- 🎓 Career-oriented Software Engineer
 - ☕ Strong foundation in **Core Java & OOPs**
 - 🌱 Currently mastering **Spring Boot & Microservices**
 - 🔧 Passionate about **backend development**
