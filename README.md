@@ -5,9 +5,7 @@
 ---
 
 ### 👩‍💻 About Me
-<p align="center">
- <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</p>
+
 
 - 🎓 MCA Student
 - 💻 Passionate about **Java, Spring, Angular**
