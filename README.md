@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular;Always+Learning+New+Things&center=true&width=500&height=50">
+ <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </p>
 
 - 🎓 MCA Student
