@@ -14,6 +14,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/shivani-r-6345a9278
 - 💻 GitHub: https://github.com/ShivaniR-gh/ShivaniR-gh/
 - 📧 Email: shivani53286@gmail.com
+- Portfolio: https://shivanir-gh.github.io/ShivaniR/#projects
 
 ---
 
