@@ -18,5 +18,5 @@
 
 ---
 
-## ⚡ Java Mindset
+##  Java Mindset
 > *“First make it work, then make it clean, then make it fast.”*
