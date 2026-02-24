@@ -4,7 +4,7 @@
   
 
 ##  About Me
-- 🎓 Career-oriented Software Engineer
+- 🎓 Career-oriented Software Engineering
 - ☕ Strong foundation in **Core Java & OOPs**
 - 🌱 Currently mastering **Spring Boot & Microservices**
 - 🔧 Passionate about **backend development**
