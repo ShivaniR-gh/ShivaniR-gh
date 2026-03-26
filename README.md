@@ -14,6 +14,7 @@
 - 💻 GitHub: https://github.com/ShivaniR-gh/ShivaniR-gh/
 - 📧 Email: shivani53286@gmail.com
 - Portfolio: https://shivanir-gh.github.io/ShivaniR/#projects
+- Leetcode: https://leetcode.com/u/ShivaniRShivaniR/
 
 ---
 
