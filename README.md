@@ -2,7 +2,6 @@
 <h3 align="center">Java Full Stack Developer </h3>
 
 
-
 ##  About Me 
 - 🎓 Career-oriented Software Engineer
 - ☕ Strong foundation in **Core Java & OOPs**
