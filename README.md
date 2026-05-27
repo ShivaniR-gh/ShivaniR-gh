@@ -33,9 +33,7 @@
 
 ### 🎨 Frontend Technologies
 
-* Angular
 * Bootstrap
-* TypeScript
 
 ### 🗄️ Database
 
